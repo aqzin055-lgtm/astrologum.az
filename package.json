@@ -1,13 +1,1 @@
-{
-  "name": "astro-cosmos-backend",
-  "version": "1.0.0",
-  "description": "AstroCosmos Backend API",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2",
-    "cors": "^2.8.5"
-  }
-}
+{ "name": "astro-frontend", "dependencies": { "next": "14.2.3", "react": "^18", "react-dom": "^18" } }
